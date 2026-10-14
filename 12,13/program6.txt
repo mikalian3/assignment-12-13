@@ -1,0 +1,10 @@
+Anderson, 0.267
+Brown, 0.300
+Carter, 0.285
+Diaz, 0.312
+Edwards, 0.254
+Fisher, 0.331
+Gray, 0.278
+Hill, 0.295
+Ito, 0.243
+Johnson, 0.320
